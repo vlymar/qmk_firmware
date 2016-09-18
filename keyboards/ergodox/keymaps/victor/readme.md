@@ -3,6 +3,11 @@
 Based on the default keymap.
 Goal is to optimize for osx + tmux + vim
 
+## TODO
+- make it easier to hop into coding layer
+- caps lock?
+- switch ; and : (for vim)
+
 ## Changelog
 * Sep 17, 2016 (V1.0):
   * Forked from default keymap (V1.1)
